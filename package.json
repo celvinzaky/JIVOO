@@ -1,0 +1,27 @@
+{
+  "name": "jivoo",
+  "version": "1.0.0",
+  "description": "JIVOO - Multi-Tenant POS Web + Cashier PWA (Super Admin, Client Back Office, Cashier PWA)",
+  "main": "server/server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server/server.js",
+    "dev": "node --watch server/server.js",
+    "seed": "node server/seed.js"
+  },
+  "keywords": ["pos", "multi-tenant", "pwa", "cashier"],
+  "author": "JIVOO",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.19.2",
+    "cors": "^2.8.5",
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^9.0.2",
+    "dotenv": "^16.4.5",
+    "uuid": "^9.0.1",
+    "compression": "^1.7.4",
+    "helmet": "^7.1.0",
+    "morgan": "^1.10.0",
+    "express-rate-limit": "^7.2.0"
+  }
+}

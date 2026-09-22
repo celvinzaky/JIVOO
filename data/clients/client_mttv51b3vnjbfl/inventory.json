@@ -1,0 +1,29 @@
+[
+  {
+    "id": "inv_mttv524hw1ot98",
+    "client_id": "client_mttv51b3vnjbfl",
+    "product_id": "prod_mttv524gp2hvdy",
+    "stock_qty": 100,
+    "unit": "gelas",
+    "low_stock_threshold": 10,
+    "updated_at": "2026-09-09T08:55:20.032Z"
+  },
+  {
+    "id": "inv_mttv524hai3mu7",
+    "client_id": "client_mttv51b3vnjbfl",
+    "product_id": "prod_mttv524g55fxbp",
+    "stock_qty": 50,
+    "unit": "gelas",
+    "low_stock_threshold": 10,
+    "updated_at": "2026-09-09T08:55:20.032Z"
+  },
+  {
+    "id": "inv_mttv524hevkl0e",
+    "client_id": "client_mttv51b3vnjbfl",
+    "product_id": "prod_mttv524gvtphls",
+    "stock_qty": 30,
+    "unit": "porsi",
+    "low_stock_threshold": 5,
+    "updated_at": "2026-09-09T08:55:20.032Z"
+  }
+]

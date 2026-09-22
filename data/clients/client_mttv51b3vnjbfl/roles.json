@@ -1,0 +1,30 @@
+[
+  {
+    "id": "role_mttv524fuifyhq",
+    "client_id": "client_mttv51b3vnjbfl",
+    "name": "owner",
+    "label": "Owner",
+    "is_system": true
+  },
+  {
+    "id": "role_mttv524fnjhtam",
+    "client_id": "client_mttv51b3vnjbfl",
+    "name": "manager",
+    "label": "Manager",
+    "is_system": true
+  },
+  {
+    "id": "role_mttv524fpvlvih",
+    "client_id": "client_mttv51b3vnjbfl",
+    "name": "staff_back_office",
+    "label": "Staff Back Office",
+    "is_system": true
+  },
+  {
+    "id": "role_mttv524firmgwd",
+    "client_id": "client_mttv51b3vnjbfl",
+    "name": "cashier",
+    "label": "Kasir",
+    "is_system": true
+  }
+]

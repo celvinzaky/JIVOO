@@ -1,0 +1,38 @@
+[
+  {
+    "id": "user_mttv51b5fvk75q",
+    "client_id": "client_mttv51b3vnjbfl",
+    "username": "owner",
+    "email": "owner@demo.jivoo.local",
+    "name": "Demo Owner",
+    "role": "owner",
+    "password_hash": "$2a$12$Bo3JwsPD8oC2Lvmc22G9T.U4Mw3dGHseZ6k7SpOuTsnSTF46UzB2q",
+    "status": "active",
+    "created_at": "2026-09-09T08:55:20.032Z",
+    "updated_at": "2026-09-09T08:55:20.032Z"
+  },
+  {
+    "id": "user_mttv51b5iaycur",
+    "client_id": "client_mttv51b3vnjbfl",
+    "username": "manager",
+    "email": "manager@demo.jivoo.local",
+    "name": "Demo Manager",
+    "role": "manager",
+    "password_hash": "$2a$12$PkiCqi8ktrLTlPK8ubhprOd2Z94J3JyGDrxd2f7g4xkZ00SEwJx0W",
+    "status": "active",
+    "created_at": "2026-09-09T08:55:20.032Z",
+    "updated_at": "2026-09-09T08:55:20.032Z"
+  },
+  {
+    "id": "user_mttv51b524m8lc",
+    "client_id": "client_mttv51b3vnjbfl",
+    "username": "cashier1",
+    "email": "cashier1@demo.jivoo.local",
+    "name": "Demo Cashier",
+    "role": "cashier",
+    "password_hash": "$2a$12$d49beCUIO4nvzafloyjvauh/qevfrodvWUf97OfkdcaJ8Gd4Kedve",
+    "status": "active",
+    "created_at": "2026-09-09T08:55:20.032Z",
+    "updated_at": "2026-09-09T08:55:20.032Z"
+  }
+]

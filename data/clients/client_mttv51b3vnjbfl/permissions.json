@@ -1,0 +1,47 @@
+[
+  {
+    "id": "perm_mttv524fuy6g7b",
+    "client_id": "client_mttv51b3vnjbfl",
+    "role": "owner",
+    "modules": [
+      "*"
+    ]
+  },
+  {
+    "id": "perm_mttv524fe69bph",
+    "client_id": "client_mttv51b3vnjbfl",
+    "role": "manager",
+    "modules": [
+      "dashboard",
+      "products",
+      "categories",
+      "customers",
+      "promotions",
+      "inventory",
+      "suppliers",
+      "purchase_orders",
+      "attendance",
+      "reports",
+      "settings"
+    ]
+  },
+  {
+    "id": "perm_mttv524fxcsowm",
+    "client_id": "client_mttv51b3vnjbfl",
+    "role": "staff_back_office",
+    "modules": [
+      "products",
+      "categories",
+      "customers",
+      "inventory"
+    ]
+  },
+  {
+    "id": "perm_mttv524fgeviwb",
+    "client_id": "client_mttv51b3vnjbfl",
+    "role": "cashier",
+    "modules": [
+      "cashier"
+    ]
+  }
+]

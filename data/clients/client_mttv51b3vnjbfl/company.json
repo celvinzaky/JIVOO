@@ -1,0 +1,16 @@
+{
+  "company_id": "company_mttv51b3ramfet",
+  "client_id": "client_mttv51b3vnjbfl",
+  "name": "Toko Contoh JIVOO",
+  "brand": "JIVOO Demo Brand",
+  "outlets": [
+    {
+      "outlet_id": "outlet_mttv51b4s0057f",
+      "name": "Outlet Pusat",
+      "address": "Jakarta",
+      "is_main": true
+    }
+  ],
+  "created_at": "2026-09-09T08:55:20.032Z",
+  "updated_at": "2026-09-09T08:55:20.032Z"
+}

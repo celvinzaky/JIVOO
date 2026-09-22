@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Login — JIVOO Super Admin</title>
+<link rel="stylesheet" href="../css/style.css" />
+</head>
+<body>
+  <div class="auth-screen">
+    <div class="auth-card">
+      <div class="auth-logo">
+        <div class="logo-mark">J</div>
+        <div class="brand-name">JIVOO</div>
+        <div class="brand-tag">Super Admin Console</div>
+      </div>
+
+      <form id="login-form" novalidate>
+        <div class="field">
+          <label for="email">Email</label>
+          <input type="email" id="email" name="email" autocomplete="username" required placeholder="superadmin@jivoo.local" />
+        </div>
+        <div class="field">
+          <label for="password">Password</label>
+          <input type="password" id="password" name="password" autocomplete="current-password" required placeholder="••••••••" />
+          <div class="error-text" id="form-error"></div>
+        </div>
+        <button type="submit" class="btn btn-primary w-full" id="submit-btn">
+          <span id="submit-label">Masuk</span>
+        </button>
+      </form>
+
+      <div class="auth-footer-note">JIVOO Platform &middot; Akses khusus administrator</div>
+    </div>
+  </div>
+
+  <script type="module" src="./js/login.js"></script>
+</body>
+</html>

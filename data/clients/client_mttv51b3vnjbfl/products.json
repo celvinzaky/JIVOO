@@ -1,0 +1,38 @@
+[
+  {
+    "id": "prod_mttv524gp2hvdy",
+    "client_id": "client_mttv51b3vnjbfl",
+    "category_id": "cat_mttv524gisf4kb",
+    "sku": "MIN-001",
+    "name": "Es Teh Manis",
+    "price": 8000,
+    "cost": 3000,
+    "status": "active",
+    "created_at": "2026-09-09T08:55:20.032Z",
+    "updated_at": "2026-09-09T08:55:20.032Z"
+  },
+  {
+    "id": "prod_mttv524g55fxbp",
+    "client_id": "client_mttv51b3vnjbfl",
+    "category_id": "cat_mttv524gisf4kb",
+    "sku": "MIN-002",
+    "name": "Kopi Susu",
+    "price": 15000,
+    "cost": 6000,
+    "status": "active",
+    "created_at": "2026-09-09T08:55:20.032Z",
+    "updated_at": "2026-09-09T08:55:20.032Z"
+  },
+  {
+    "id": "prod_mttv524gvtphls",
+    "client_id": "client_mttv51b3vnjbfl",
+    "category_id": "cat_mttv524gv691nt",
+    "sku": "MAK-001",
+    "name": "Nasi Goreng",
+    "price": 22000,
+    "cost": 9000,
+    "status": "active",
+    "created_at": "2026-09-09T08:55:20.032Z",
+    "updated_at": "2026-09-09T08:55:20.032Z"
+  }
+]

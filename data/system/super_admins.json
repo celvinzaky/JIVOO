@@ -1,0 +1,11 @@
+[
+  {
+    "id": "sadmin_mttv50zwa7ap4x",
+    "name": "JIVOO Super Admin",
+    "email": "superadmin@jivoo.local",
+    "password_hash": "$2a$12$dFOzagkT.w3fXNvWVNmu6uXMLwWd7X/jjOOy3FM4YI9dUpT4yCqNe",
+    "status": "active",
+    "created_at": "2026-09-09T08:55:20.029Z",
+    "updated_at": "2026-09-09T08:55:20.029Z"
+  }
+]

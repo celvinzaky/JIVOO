@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Login — JIVOO Back Office</title>
+<link rel="stylesheet" href="../css/style.css" />
+</head>
+<body>
+  <div class="auth-screen">
+    <div class="auth-card">
+      <div class="auth-logo">
+        <div class="logo-mark">J</div>
+        <div class="brand-name">JIVOO</div>
+        <div class="brand-tag">Client Back Office</div>
+      </div>
+
+      <form id="login-form" novalidate>
+        <div class="field">
+          <label for="client_code">Kode Client</label>
+          <input type="text" id="client_code" name="client_code" required placeholder="demo001" autocomplete="organization" />
+        </div>
+        <div class="field">
+          <label for="username">Username</label>
+          <input type="text" id="username" name="username" required placeholder="owner" autocomplete="username" />
+        </div>
+        <div class="field">
+          <label for="password">Password</label>
+          <input type="password" id="password" name="password" required placeholder="••••••••" autocomplete="current-password" />
+          <div class="error-text" id="form-error"></div>
+        </div>
+        <button type="submit" class="btn btn-primary w-full" id="submit-btn">
+          <span id="submit-label">Masuk</span>
+        </button>
+      </form>
+
+      <div class="auth-footer-note">Tidak tahu kode client Anda? Hubungi pemilik akun.</div>
+    </div>
+  </div>
+
+  <script type="module" src="./js/login.js"></script>
+</body>
+</html>
